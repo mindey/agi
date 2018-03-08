@@ -12,7 +12,7 @@ The topic of our discussions on this list are:
 
 (1) What frameworks of general intelligence exist.
 
-(2) Finding out what general intelligence (or close to general) systems already exist, and how to tap into them.
+(2) Finding out what general intelligence implementations exist, and how to tap into them.
 
 (3) What protocols are or can be used to connect different systems of general intelligence.
 
